@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/',
+    publicPath: '/my-area-calculator-vue/',
 };
