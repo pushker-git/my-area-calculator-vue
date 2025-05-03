@@ -4,6 +4,7 @@ import { VitePWA } from 'vite-plugin-pwa' // Import the plugin
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/my-area-calculator-vue/',
   plugins: [
     vue(),
     VitePWA({ // Add the PWA plugin configuration
