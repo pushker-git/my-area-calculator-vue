@@ -1,0 +1,18 @@
+{
+    "calculatorTitle": "क्षेत्रफल गणक (फ़ुट/इंच)",
+    "length": "लंबाई",
+    "width": "चौड़ाई",
+    "height": "ऊंचाई",
+    "feet": "फ़ुट",
+    "inches": "इंच",
+    "resultLabelArea": "क्षेत्रफल",
+    "resultLabelSurfaceArea": "सतह क्षेत्रफल",
+    "unitArea": "वर्ग फ़ुट", 
+    "unitSurfaceArea": "घनफुट",
+    "mode2d": "क्षेत्रफल",
+    "mode3d": "घनफुट",
+    "selectLanguage": "भाषा",
+    "errorInches": "इंच 0-11 होना चाहिए",
+    "errorInchesNegative": "इंच ऋणात्मक नहीं हो सकता",
+    "fixErrors": "कृपया इनपुट त्रुटियों को ठीक करें"
+  }

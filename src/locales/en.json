@@ -1,0 +1,18 @@
+{
+    "calculatorTitle": "Area Calculator (ft/in)",
+    "length": "Length",
+    "width": "Width",
+    "height": "Height",
+    "feet": "ft",
+    "inches": "in",
+    "resultLabelArea": "Area",
+    "resultLabelSurfaceArea": "Surface Area",
+    "unitArea": "sq ft",
+    "unitSurfaceArea": "sq ft",
+    "mode2d": "2D Area",
+    "mode3d": "3D Surface Area",
+    "selectLanguage": "Language",
+    "errorInches": "Inches must be 0-11",
+    "errorInchesNegative": "Inches cannot be negative",
+    "fixErrors": "Please fix input errors"
+  }

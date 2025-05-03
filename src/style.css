@@ -1,0 +1,15 @@
+/* Example global styles - keep it minimal or empty if component styles suffice */
+body {
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+    background-color: #f4f7f6;
+  }
+  
+  #app {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+  }
