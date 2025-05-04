@@ -16,6 +16,7 @@ export default defineConfig({
       },
       includeAssets: ['favicon.ico', 'apple-touch-icon.png'], // Include specific assets like icons
       manifest: { // Your Web App Manifest configuration
+        id: '/my-area-calculator-vue/',
         name: 'Area Calculator (Ft/In)',
         short_name: 'AreaCalc',
         description: 'स्क्वायर फुट, गहन फुट निकाले',
@@ -23,7 +24,7 @@ export default defineConfig({
         background_color: '#ffffff', // Color shown before CSS loads
         display: 'standalone', // Makes it feel like a native app (no browser UI)
         scope: '/',
-        start_url: '/', // The page loaded when the app starts
+        start_url: '/my-area-calculator-vue/', // The page loaded when the app starts
         icons: [ // Define app icons for different sizes
           {
             src: 'pwa-192x192.png', // You'll need to create these icon files
